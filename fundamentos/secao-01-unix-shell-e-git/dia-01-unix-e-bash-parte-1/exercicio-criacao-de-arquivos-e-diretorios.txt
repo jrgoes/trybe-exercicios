@@ -22,11 +22,9 @@ S= jrgoes:~/Documentos/trybe/unix_tests$ mkdir backup
 
 S= jrgoes:~/Documentos/trybe/unix_tests$ mv trybe_backup.txt backup
 
-
 - Dentro de unix_tests, crie um novo diretório chamado backup2.
 
 S= jrgoes:~/Documentos/trybe/unix_tests$ mkdir backup2
-
 
 - Mova o arquivo trybe_backup.txt da pasta backup para a pasta backup2.
 
