@@ -28,7 +28,8 @@ _~/Documentos/trybe-exercicios/fundamentos/secao-01-unix-shell-e-git$ kill 36966
 ### Execute novamente o comando sleep 30, mas agora sem o &. Depois, faça com que ele continue executando em background.
 
 - _S=~/Documentos/trybe-exercicios/fundamentos/secao-01-unix-shell-e-git$ sleep 30_
-  _^Z_
+ 
+_^Z_
 
 [1]+  Parado                  sleep 30
 
@@ -36,7 +37,7 @@ _~/Documentos/trybe-exercicios/fundamentos/secao-01-unix-shell-e-git$ kill 36966
    
 [1]+  Executando              sleep 30 &
 
-    _~/Documentos/trybe-exercicios/fundamentos/secao-01-unix-shell-e-git$_
+  _~/Documentos/trybe-exercicios/fundamentos/secao-01-unix-shell-e-git$_
     
 [1]+  Concluído              sleep 15
 
