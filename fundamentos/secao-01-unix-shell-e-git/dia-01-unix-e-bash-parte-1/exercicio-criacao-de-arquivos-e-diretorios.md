@@ -50,4 +50,4 @@
 
 ##### Limpe o terminal.
 
-S= clear
+- S= clear
