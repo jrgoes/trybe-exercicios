@@ -12,8 +12,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 - [x] Day 1: _Unix & Bash- Part 1_
 - [X] Day 2: _Unix & Bash- Part 2_
-- [ ] Day 3: _Git, O que é, e para que serve?_
-- [ ] Day 4: _Git & GitHub, entendendo os comandos._
+- [X] Day 3: _Git, O que é, e para que serve?_
+- [X] Day 4: _Git & GitHub, entendendo os comandos._
 
 ##### Secao 2: Introdução - Html e Css
 
