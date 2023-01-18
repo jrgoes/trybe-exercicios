@@ -17,8 +17,8 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ##### Secao 2: Introdução - Html e Css
 
-- [ ] Day 1: _Html e Css, estruturas de pagina._
-- [ ] Day 2: _Html e Css, primeiros passos em css._
+- [X] Day 1: _Html e Css, estruturas de pagina._
+- [X] Day 2: _Html e Css, primeiros passos em css._
 - [ ] Day 3: _Html e Css, seletores e posicionamento._
 - [ ] Day 4: _Html semantico._
 - [ ] Day 5: _Projeto, lessons learned._
