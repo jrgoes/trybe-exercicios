@@ -8,17 +8,25 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 
 ## Fundamentos do Desenvolvimento Web :white_check_mark:
 
-##### Secao 1: Introdução - Unix, Shell & Git
+##### Seção 1: Introdução - Unix, Shell & Git
 
 - [x] Day 1: _Unix & Bash- Part 1_
 - [X] Day 2: _Unix & Bash- Part 2_
 - [X] Day 3: _Git, O que é, e para que serve?_
 - [X] Day 4: _Git & GitHub, entendendo os comandos._
 
-##### Secao 2: Introdução - Html e Css
+##### Seção 2: Introdução - Html e Css
 
 - [X] Day 1: _Html e Css, estruturas de pagina._
 - [X] Day 2: _Html e Css, primeiros passos em css._
-- [ ] Day 3: _Html e Css, seletores e posicionamento._
-- [ ] Day 4: _Html semantico._
-- [ ] Day 5: _Projeto, lessons learned._
+- [X] Day 3: _Html e Css, seletores e posicionamento._
+- [X] Day 4: _Html semantico._
+- [X] Day 5: _Projeto, lessons learned._
+
+##### Seção 3: Introdução à JavaScript
+- [X] Day 1: JavaScript - Primeiros Passos
+- [ ] Day 2: JavaScript - Array e loop For
+- [ ] Day 3: JavaScript - Lógica de Programação e Algorítmos
+- [ ] Day 4: JavaScript - Objetos e Funções
+- [ ] Day 5: JavaScript ES6 - let, const, arrow functions e templates literals
+- [ ] Day 6: Projeto - Playground Functions
