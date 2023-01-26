@@ -26,7 +26,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 ##### Seção 3: Introdução à JavaScript
 - [X] Day 1: JavaScript - Primeiros Passos
 - [X] Day 2: JavaScript - Array e loop For
-- [ ] Day 3: JavaScript - Lógica de Programação e Algorítmos
-- [ ] Day 4: JavaScript - Objetos e Funções
+- [X] Day 3: JavaScript - Lógica de Programação e Algorítmos
+- [X] Day 4: JavaScript - Objetos e Funções
 - [ ] Day 5: JavaScript ES6 - let, const, arrow functions e templates literals
 - [ ] Day 6: Projeto - Playground Functions
