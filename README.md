@@ -30,3 +30,11 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [X] Day 4: JavaScript - Objetos e Funções
 - [x] Day 5: JavaScript ES6 - let, const, arrow functions e templates literals
 - [ ] Day 6: Projeto - Playground Functions
+
+##### Seção 4: JavaScript: DOM, Eventos e Web Storage
+- [ ] Day 1: JavaScript - DOM e seletores
+- [ ] Day 2: JavaScript - Trabalhando com elementos
+- [ ] Day 3: JavaScript - Eventos
+- [ ] Day 4: JavaScript - Web Storage
+- [ ] Day 5: Projeto - Arte com Pixels
+- [ ] Day 6: Projetos Bônus
