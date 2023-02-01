@@ -32,7 +32,7 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] Day 6: Projeto - Playground Functions
 
 ##### Seção 4: JavaScript: DOM, Eventos e Web Storage
-- [ ] Day 1: JavaScript - DOM e seletores
+- [x] Day 1: JavaScript - DOM e seletores
 - [ ] Day 2: JavaScript - Trabalhando com elementos
 - [ ] Day 3: JavaScript - Eventos
 - [ ] Day 4: JavaScript - Web Storage
