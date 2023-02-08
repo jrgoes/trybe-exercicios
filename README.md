@@ -36,5 +36,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] Day 2: JavaScript - Trabalhando com elementos
 - [x] Day 3: JavaScript - Eventos
 - [x] Day 4: JavaScript - Web Storage
-- [ ] Day 5: Projeto - Arte com Pixels
+- [x] Day 5: Projeto - Arte com Pixels
 - [ ] Day 6: Projetos Bônus
