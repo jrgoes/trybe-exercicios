@@ -44,5 +44,5 @@ O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda i
 - [x] Day 2: Bibliotecas JavaScript e Frameworks CSS
 - [x] Day 3: CSS Flexbox - Parte 1
 - [x] Day 4: CSS Flexbox - Parte 2
-- [ ] Day 5: CSS Resposivo - Mobile First
+- [x] Day 5: CSS Resposivo - Mobile First
 - [ ] Day 6: Projeto - Trybewarts
